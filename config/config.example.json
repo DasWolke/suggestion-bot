@@ -1,0 +1,15 @@
+{
+  "dbUrl":"mongodb://host/database-name",
+  "token": "discord bot token",
+  "erisOptions": {
+    "fetchAllUsers": true
+  },
+  "statusName": "Status Message (Playing Game)",
+  "prefix": "prefix of the bot",
+  "useMentionPrefix": true, //Allow Mentions
+  "infoImageUrl": "https://pbs.twimg.com/profile_images/588685547876421632/p3UErTSr.jpg", //A nice image Url
+  "suggestionChannel":"channelId", //channel to post submitted suggestions in
+  "suggestionMod":"roleId", //id of role that is allowed to moderate submissions
+  "name":"nya", //Name that shows in the prefix nya command
+  "infoDescription":"Your memes here." // Description that shows in the prefix nya command
+}

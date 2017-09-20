@@ -1,0 +1,7 @@
+#List of files that should not appear on github
+node_modules
+.idea
+package-lock.json
+yarn.lock
+suggestion-bot.iml
+config/config.json
